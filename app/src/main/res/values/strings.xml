@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Foody</string>
+    <string name="recipes">Recipes</string>
+    <string name="favorite">Favorite</string>
+    <string name="joke">Joke</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_title">Recipes Title</string>
+    <string name="recipes_description">In most cases, every Android application runs in its own Linux process. </string>
+    <string name="_100">100</string>
+    <string name="favoriterecipes">favoriteRecipes</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="recipe_favorite">Recipe favorite</string>
+    <string name="recipe_time">Recipe Time</string>
+    <string name="recipe_leaf">Recipe Leaf</string>
 </resources>
